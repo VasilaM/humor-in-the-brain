@@ -1,2 +1,20 @@
-# humor-in-the-brain
-**Funny Story: The Neural Effects of Background Laughter on Humor Comprehension**
+# Funny Story: The Neural Effects of Background Laughter on Humor Comprehension**
+
+This repository contains the bulk of the code and results from my senior thesis at Princeton University.
+
+Abstract: Does hearing other people laugh actually make something funnier? This paper at-
+tempts to better understand how our brains respond to auditory stimuli that contain
+background laughter as opposed to those that don’t. I fMRI compare data from
+participants listening to the same story told with and without audience laughter in
+the background. Using a General Linear Model (GLM), I find significantly greater
+activation in the bilateral superior temporal gyri (lSTG, rSTG), Heschl’s gyri, and
+the pre-supplementary motor area (pre-SMA) in the group that heard background
+laughter, even under stringent family-wise error rate (FWER) correction via non-
+parametric permutation testing. These regions have established roles in humor com-
+prehension, appreciation, and the physical expression of laughter. A complementary
+Multi-Variate Pattern Analysis (MVPA) confirms that punchline events can be de-
+coded above chance across all regions of interest in both groups, though no statistically
+significant between-group differences in classification accuracy are found. Together,
+these results suggest that the mere sound of laughter in the background of humorous
+story amplifies neural responses associated with humor comprehension and apprecia-
+tion, offering a neuroscientific account of the contagiousness of laughter.
