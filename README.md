@@ -1,4 +1,4 @@
-# Funny Story: The Neural Effects of Background Laughter on Humor Comprehension**
+# Funny Story: The Effects of Background Laughter on Humor Processing in the Brain
 
 This repository contains the bulk of the code and results from my senior thesis at Princeton University.
 
